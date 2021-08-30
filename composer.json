@@ -1,0 +1,18 @@
+{
+  "name": "4-l-clover/blog-models",
+  "type": "project",
+  "description": "Your package description goes here",
+  "homepage": "https://yourcompany.com",
+  "authors": [
+    {
+      "name": "4-l-clover",
+      "email": "crsun.dev@hotmail.com",
+      "role": "<author-role>"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BlogApp\\SharedModels\\": "src/"
+    }
+  }
+}
